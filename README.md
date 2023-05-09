@@ -1,0 +1,1 @@
+# shoplane_product_detail
